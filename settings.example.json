@@ -1,0 +1,21 @@
+{
+  "bedrockPath": "~/Documents/Bedrock",
+  "projectsFolder": "Projects",
+  "defaultsNotes": ["Approved/Business defaults.md"],
+  "projects": [
+    {
+      "name": "My App",
+      "path": "~/code/my-app",
+      "backlog": "~/code/my-app/.claude/backlog.md"
+    }
+  ],
+  "questionQueue": "Inbox/Fleet questions.md",
+  "waitingOnYou": "Inbox/Waiting on you.md",
+  "sessionPermissionMode": "dontAsk",
+  "runner": {
+    "budgetUsd": 2,
+    "maxBudgetUsd": 10,
+    "settingSources": "project,local",
+    "denyTools": ["Bash(git push --force*)", "Bash(npm publish*)", "Bash(gh repo delete*)"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "shouldTrigger": [
+    "I only want to talk to one session from now on. You be the top boss over all my projects and message the other sessions.",
+    "Run all my projects from this chat. Spin up a mini boss for each one and have them bring their questions to me here.",
+    "Manage all my Claude sessions so I just answer questions in one place, and use my Bedrock vault as the memory.",
+    "Set up a manager that checks on all my agents every 30 minutes and obeys the HOLD lines in my backlog.",
+    "keep my agents working across all my projects while I sleep and stack the questions for the morning",
+    "Sign me up for an email service for my new app with as little of my time as possible, have the agents do the rest and just give me one tap.",
+    "Set up my work fleet for these projects."
+  ],
+  "shouldNotTrigger": [
+    "Fix the typo in the README heading: it says Instalation.",
+    "What's the time complexity of merge sort?",
+    "Write a Python function that reverses a linked list.",
+    "Explain what a git worktree is in two sentences.",
+    "Make me a bar chart of these numbers: 3, 5, 9.",
+    "Use three subagents to search this folder for TODO comments and give me the list this turn."
+  ]
+}
